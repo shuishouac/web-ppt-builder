@@ -1,0 +1,17 @@
+{
+  "name": "web-ppt-slidev-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build --base __BASE_PATH__",
+    "preview": "vite preview",
+    "export:pdf": "slidev export"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.14.2",
+    "@slidev/theme-default": "^0.25.0",
+    "playwright-chromium": "^1.59.1",
+    "vite": "^8.0.8"
+  }
+}

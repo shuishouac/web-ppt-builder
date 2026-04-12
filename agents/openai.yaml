@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web PPT Builder"
+  short_description: "Build branded web decks from fixed outlines with Slidev"
+  default_prompt: "Use $web-ppt-builder to turn my outline into a branded web presentation and prepare it for Cloudflare Pages."
